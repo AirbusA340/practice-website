@@ -1,0 +1,67 @@
+html {
+  height: 100%;
+  width: 100%;
+  
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+
+
+}
+
+p4 {
+  text-align: right;
+  
+}
+
+body {
+  background-color: lightblue;
+  
+}
+
+.susimage {
+  height: 400px;
+  width: 600px;
+  float: right;
+  border-style: solid;
+  border-color: white;
+  
+}
+
+img {
+  border-style: solid;
+  border-color: white;
+}
+
+p {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+a {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.melee {
+  height: 600px;
+  width: 1200px;
+}
+
+.title1 {
+  float: center;
+}
+
+.title2 {
+  float: right;
+}
+
+.Wskins {
+  height: 600px;
+  width: 1200px;
+}
+
+.emotes {
+  height: 600px;
+  width: 1000px;
+}
